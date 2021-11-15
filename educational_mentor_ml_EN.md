@@ -68,7 +68,7 @@ The next work sample is to answer the questions and create improvement plans. Yo
 
 Use Jupyter Notebook to write the Python code and Markdown description in an ipynb file, or use Google Colaboratory if you don't have access to Jupyter Notebook.
 
-[DIVER | Introduction to Python 0: Using Google Colaboratory](https://exam.diveintocode.jp/seminar_documents/54)
+[DIVER | Introduction to Python 0: Using Google Colaboratory](https://diver.diveintocode.jp/curriculums/1499)
 
 The assignment answers should be written with the expectation that they will be distributed to the students. Rather than simply writing the answer, it is good to include the following information, for example
 
