@@ -28,7 +28,7 @@ If you have no knowledge at all, this is a great opportunity to see how far you 
 
 For those who do not have the knowledge at the moment, we will give you recommended study materials.
 
-[Recommended Learning Materials](https://github.com/DiveintoCode-corp/worksample/blob/master/learning_material_machine_learning_EN.md)
+[Recommended Learning Materials](https://github.com/Outc94/worksample_UNIMTECH/blob/main/learning_material_machine_learning_EN.md)
 
 ## Mentoring Question Response
 
